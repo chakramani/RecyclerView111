@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
             arrayList.add(new Model(String.valueOf(i)));
         }
 
-//nlakfmlsmdfsldfkmsdl
+//nlakfmlsmdfsldfkmsdlknknk
 
         Adapter adapter = new Adapter(arrayList);
         adapter.notifyDataSetChanged();
